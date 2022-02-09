@@ -7,3 +7,6 @@ Hey!
 Husk og start scriptet start arnie_madudbringer
 
 Hvis der opstår fejl så skriv til mig på discord!
+
+
+Discord: https://discord.io/arniesscripts
