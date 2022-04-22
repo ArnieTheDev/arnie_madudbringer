@@ -9,4 +9,4 @@ Husk og start scriptet start arnie_madudbringer
 Hvis der opstår fejl så skriv til mig på discord!
 
 
-Discord: https://discord.io/arniesscripts
+Min shop: https://discord.gg/K7Ez7vYxk2
