@@ -6,7 +6,7 @@ Hey!
 
 Husk og start scriptet start arnie_madudbringer
 
-Hvis der opstår fejl så skriv til mig på discord!
+Hvis du oplever fejl så kom ind på min discord, så vil jeg prøve og hjælpe.
 
 
 Min shop: https://discord.gg/K7Ez7vYxk2
